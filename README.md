@@ -6,6 +6,7 @@
 -------------------------------
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,java,javascript,mysql,vscode,c)](https://skillicons.dev)
 
-- 📫 How to reach me:[![My Skills](https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/ruman-saiyed-4b4646299/)
+- 📫 How to reach me:
+  [![My Skills](https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/ruman-saiyed-4b4646299/)
 
 
