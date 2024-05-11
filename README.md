@@ -5,8 +5,9 @@
 ### Languages
 -------------------------------
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,java,javascript,mysql,vscode,c)](https://skillicons.dev)
-
-- 📫 How to reach me:
-  [![My Skills](https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/ruman-saiyed-4b4646299/)
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
+/><i class="ci ci-linkedin ci-2x"></i>
 
 
