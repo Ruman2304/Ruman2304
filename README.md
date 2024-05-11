@@ -6,5 +6,10 @@
 -------------------------------
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,java,javascript,mysql,vscode,c)](https://skillicons.dev)
 
+## 🔗 Links
+--------------
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ruman2304.github.io/portfolio/website.html)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruman-saiyed-4b4646299/)
+
 
 
